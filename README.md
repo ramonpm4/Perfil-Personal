@@ -18,7 +18,8 @@ Repositorio: Segmentación de Clientes
 2. **Análisis de Condensación de Proteínas**
 **Descripción:** Proyecto de investigación donde analizo la cinética de condensación de la proteína Nucleocápside del SARS-CoV-2, aplicando modelos cinéticos y análisis de datos para entender mejor los mecanismos de formación.
 Repositorio: Análisis de Condensación
-Actualmente Buscando
+
+## **Actualmente Buscando**
 
 Estoy buscando una posición en Data Science donde pueda aplicar mis habilidades en análisis de datos y modelado predictivo para abordar problemas complejos. Mi objetivo es seguir aprendiendo y creciendo en el campo del machine learning, aprovechando mis conocimientos actuales mientras adquiero nuevas habilidades en este ámbito.
 
