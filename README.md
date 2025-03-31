@@ -14,10 +14,11 @@ Hello there! I'm Ramón, a Biologist and PhD candidate in Biochemistry at the Fu
 
 1. **Customer Segmentation with Machine Learning**  
    **Description:** In this project, I applied an unsupervised K-means model to group customers of a company into different segments based on their purchasing patterns.  
-   Repository: [Customer Segmentation](#)
+   Repository: [[Customer Segmentation](#)](https://github.com/ramonpm4/Proyectos/blob/main/Proyecto_de_Segmentacion_de_Clientes.ipynb)
 
 2. **Risk Classification of Cardiovascular Disease Using Decision Tree, Random Forest, and XGBoost**  
    **Description:** I developed a supervised classification model to predict with an accuracy of 89.7% the probability of a patient having a cardiovascular disease based on eleven patient-specific features. I then deployed the model using Streamlit so that users could access the trained model and learn about the likelihood of cardiovascular disease.
+   Repository: https://github.com/ramonpm4/RandomForest_APP
 
 ## **Currently Looking For**
 
@@ -30,5 +31,5 @@ I am seeking a position in Data Science where I can apply my skills in data anal
 
 ## **Why Me?**
 With my scientific background and research experience, I am well-equipped to tackle complex problems and design data-driven solutions with a rigorous approach.
-I am really passionate about continuous learning and I am always seeking to expand my knowledge of cutting-edge tools and technologies in Data Science.
+I am really passionate about continuous learning. I am always seeking to expand my knowledge of cutting-edge tools and technologies in Data Science.
 
