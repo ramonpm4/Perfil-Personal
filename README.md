@@ -1,34 +1,34 @@
-# **Ramón - Data Science | PhD Candidate**
+# **Ramón Peralta Martinez - Data Science | PhD Candidate**
 
-Hola! Soy Ramón, doctorando en Bioquímica en la Fundación Instituto Leloir - CONICET. Actualmente estoy buscando oportunidades para aplicar mis habilidades en Data Science en una empresa.
+Hello there! I'm Ramón, a Biologist and PhD candidate in Biochemistry at the Fundación Instituto Leloir - CONICET. I am currently seeking opportunities to apply my skills in Data Science within a company.
 
-## **Sobre mí**
+## **About Me**
 
-- 🎓 **Formación**: Biología (Licenciado, UBA) y Química Biológica (PhD - finalizando).
-- 📊 **Data Science**: Experiencia en análisis y modelado de datos usando Python (Pandas, scikit-learn), con especial interés en machine learning.
-- 🤖 **Machine Learning**: He trabajado con modelos no supervisados (clustering) y supervisados, con interés en profundizar en técnicas avanzadas.
-- 💻 **Herramientas**: Python, Jupyter, Pandas, Scikit-Learn, GitHub, Anaconda, entre otras.
-- 🔬 **Investigación**: Mi tesis se enfoca en la formación de condensados biomoleculares, lo que me ha permitido desarrollar habilidades sólidas en el manejo y análisis de datos experimentales complejos.
-
-## **Proyectos Destacados:**
-
-1. **Segmentación de Clientes con Machine Learning**
-**Descripción:** En este proyecto apliqué un modelo no supervisado de K-means para agrupar clientes de una empresa en diferentes segmentos según sus patrones de compra.
-Repositorio: Segmentación de Clientes
-2. **Análisis de Condensación de Proteínas**
-**Descripción:** Proyecto de investigación donde analizo la cinética de condensación de la proteína Nucleocápside del SARS-CoV-2, aplicando modelos cinéticos y análisis de datos para entender mejor los mecanismos de formación.
-Repositorio: Análisis de Condensación
-
-## **Actualmente Buscando**
-
-Estoy buscando una posición en Data Science donde pueda aplicar mis habilidades en análisis de datos y modelado predictivo para abordar problemas complejos. Mi objetivo es seguir aprendiendo y creciendo en el campo del machine learning, aprovechando mis conocimientos actuales mientras adquiero nuevas habilidades en este ámbito.
-
-## **Lo que ofrezco:**
-Habilidades técnicas sólidas en Python, análisis de datos, y machine learning.
-Experiencia en el manejo de datasets complejos y generación de insights accionables.
-Capacidad para trabajar en equipos multidisciplinarios y comunicar resultados técnicos de manera clara y precisa.
+- 🎓 **Education**: Biology (Bachelor's, UBA) and Biochemical Chemistry (PhD - near completition).
+- 📊 **Data Science**: Experience in data analysis and data modeling using Python (Pandas, scikit-learn, matplotlib), with a strong interest in machine learning.
+- 🤖 **Machine Learning**: I've worked with unsupervised (clustering) and supervised models. I am very interested in fine tune my ML skills with a continuous lerning mindset. Additionally, I am knowledgeable about the operation and application of Deep Learning models.
+- 💻 **Tools**: Python, Jupyter, Pandas, Scikit-Learn, TensorFlow, Matplotlib, Seaborn. Knowledge in SQL and Cloud Computing (Azure)
 
 
-## *¿Por qué yo?*
-Con mi formación científica y experiencia en investigación, estoy capacitado para abordar problemas complejos y diseñar soluciones basadas en datos con un enfoque riguroso.
-Tengo pasión por el aprendizaje continuo y estoy siempre buscando expandir mi conocimiento en herramientas y tecnologías de vanguardia en Data Science.
+## **Featured Projects:**
+
+1. **Customer Segmentation with Machine Learning**  
+   **Description:** In this project, I applied an unsupervised K-means model to group customers of a company into different segments based on their purchasing patterns.  
+   Repository: [Customer Segmentation](#)
+
+2. **Risk Classification of Cardiovascular Disease Using Decision Tree, Random Forest, and XGBoost**  
+   **Description:** I developed a supervised classification model to predict with an accuracy of 89.7% the probability of a patient having a cardiovascular disease based on eleven patient-specific features. I then deployed the model using Streamlit so that users could access the trained model and learn about the likelihood of cardiovascular disease.
+
+## **Currently Looking For**
+
+I am seeking a position in Data Science where I can apply my skills in data analysis and predictive modeling to tackle complex problems. My goal is to continue learning and growing in the field of machine learning, leveraging my current knowledge while acquiring new skills in this area.
+
+## **What I Offer:**
+- Strong skills in Python, data analysis, and machine learning.
+- Experience handling complex datasets and generating actionable insights.
+- Ability to work in multidisciplinary teams and communicate technical results clearly and precisely.
+
+## **Why Me?**
+With my scientific background and research experience, I am well-equipped to tackle complex problems and design data-driven solutions with a rigorous approach.
+I am really passionate about continuous learning and I am always seeking to expand my knowledge of cutting-edge tools and technologies in Data Science.
+
