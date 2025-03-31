@@ -4,7 +4,7 @@ Hello there! I'm Ramón, a Biologist and PhD candidate in Biochemistry at the Fu
 
 ## **About Me**
 
-- 🎓 **Education**: Biology (Bachelor's, UBA) and Biochemical Chemistry (PhD - near completition).
+- 🎓 **Education**: Biology (Bachelor's, UBA) and Biochemical Chemistry (PhD - near completition - Thesis already writen).
 - 📊 **Data Science**: Experience in data analysis and data modeling using Python (Pandas, scikit-learn, matplotlib), with a strong interest in machine learning.
 - 🤖 **Machine Learning**: I've worked with unsupervised (clustering) and supervised models. I am very interested in fine tune my ML skills with a continuous lerning mindset. Additionally, I am knowledgeable about the operation and application of Deep Learning models.
 - 💻 **Tools**: Python, Jupyter, Pandas, Scikit-Learn, TensorFlow, Matplotlib, Seaborn. Knowledge in SQL and Cloud Computing (Azure)
