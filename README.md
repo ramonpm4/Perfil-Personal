@@ -22,10 +22,10 @@ Hello there! I'm Ramón, a Biologist and PhD candidate in Biochemistry at the Fu
 
 ## **Currently Looking For**
 
-I am looking for a Data Science position where I can apply my skills in data analysis and predictive modeling to tackle complex problems. My goal is to continue learning and growing in the field of machine learning, leveraging my current knowledge while acquiring new skills in this area.
+I am looking for a Data Science position where I can apply my skills in data analysis and predictive modeling to tackle complex problems. My goal is to continue learning and growing in the field of machine learning, applying my current knowledge while acquiring new skills in this area.
 
 ## **What I Offer:**
-- Strong skills in Python, data analysis, and machine learning.
+- Solid skills in Python, data analysis, and machine learning.
 - Experience handling complex datasets and generating actionable insights.
 - Ability to work in multidisciplinary teams and communicate technical results clearly and precisely.
 
