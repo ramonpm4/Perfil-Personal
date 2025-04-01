@@ -4,7 +4,7 @@ Hello there! I'm Ramón, a Biologist and PhD candidate in Biochemistry at the Fu
 
 ## **About Me**
 
-- 🎓 **Education**: Biology (Bachelor's, UBA) and Biochemical Chemistry (PhD - near completion - Thesis already writen).
+- 🎓 **Education**: Biology (Licenciatura, UBA) and Biochemical Chemistry (PhD - near completion - Thesis already writen).
 - 📊 **Data Science**: Experience in data analysis and data modeling using Python (Pandas, scikit-learn, matplotlib), with a strong interest in machine learning.
 - 🤖 **Machine Learning**: I've worked with unsupervised (clustering) and supervised models. I am very interested in fine-tune my ML skills with a continuous learning mindset. Additionally, I am knowledgeable about the operation and application of Deep Learning models.
 - 💻 **Tools**: Python, Jupyter, Pandas, Scikit-Learn, TensorFlow, Matplotlib, Seaborn. Knowledge in SQL and Cloud Computing (Azure)
@@ -22,7 +22,7 @@ Hello there! I'm Ramón, a Biologist and PhD candidate in Biochemistry at the Fu
 
 ## **Currently Looking For**
 
-I am seeking a position in Data Science where I can apply my skills in data analysis and predictive modeling to tackle complex problems. My goal is to continue learning and growing in the field of machine learning, leveraging my current knowledge while acquiring new skills in this area.
+I am looking for a Data Science position where I can apply my skills in data analysis and predictive modeling to tackle complex problems. My goal is to continue learning and growing in the field of machine learning, leveraging my current knowledge while acquiring new skills in this area.
 
 ## **What I Offer:**
 - Strong skills in Python, data analysis, and machine learning.
@@ -31,5 +31,5 @@ I am seeking a position in Data Science where I can apply my skills in data anal
 
 ## **Why Me?**
 With my scientific background and research experience, I am well-equipped to tackle complex problems and design data-driven solutions with a rigorous approach.
-I am really passionate about continuous learning. I am always seeking to expand my knowledge of cutting-edge tools and technologies in Data Science.
+I am really passionate about continuous learning. I am always looking to expand my knowledge on cutting-edge tools and technologies in Data Science.
 
