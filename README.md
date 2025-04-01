@@ -30,6 +30,8 @@ I am looking for a Data Science position where I can apply my skills in data ana
 - Ability to work in multidisciplinary teams and communicate technical results clearly and precisely.
 
 ## **Why Me?**
-With my scientific background and research experience, I am well-equipped to tackle complex problems and design data-driven solutions with a rigorous approach.
-I am really passionate about continuous learning. I am always looking to expand my knowledge on cutting-edge tools and technologies in Data Science.
+I am a fast learner. My scientific background gave me the hability to acquire knowledge fast and to manage to find rigurous solutions to complex problems. I am truly passionate about continuous learning, adapting quickly with a Design-Build-Evaluate cycle mindset.
+
+
+
 
