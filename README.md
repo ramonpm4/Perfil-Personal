@@ -30,7 +30,7 @@ I am looking for a Data Science position where I can apply my skills in data ana
 - Ability to work in multidisciplinary teams and communicate technical results clearly and precisely.
 
 ## **Why Me?**
-I am a fast learner. My scientific background gave me the hability to quickly acquire knowledge and find rigurous solutions to complex problems. I am truly passionate about continuous learning, adapting quickly with a Design-Build-Evaluate cycle mindset.
+I am a fast learner. My scientific background gave me the ability to quickly acquire knowledge and find rigurous solutions to complex problems. I am truly passionate about continuous learning, adapting quickly with a Design-Build-Evaluate cycle mindset.
 
 
 
