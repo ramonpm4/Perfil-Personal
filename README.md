@@ -77,7 +77,7 @@ I transitioned into Data Science after several years of scientific research, dev
 
 ## 🚀 Open to Work
 
-I’m currently seeking a Data Science position where I can apply my skills in data analysis and predictive modeling to real-world challenges. I’m especially motivated to keep growing in machine learning and contribute to impactful, data-driven teams.
+I’m currently seeking a Data Science position where I can apply my skills in data analysis and predictive modeling to real-world challenges. I’m especially motivated to keep growing in machine learning and contribute to impactful, data-driven teams. I’m also open to roles as a Machine Learning Engineer or Python Developer.
 
 ---
 
