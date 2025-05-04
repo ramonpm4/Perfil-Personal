@@ -1,10 +1,12 @@
-# **Ramón Peralta Martinez - Data Scientist | PhD Candidate**
+# Ramón Peralta Martínez — Data Scientist | Biologist | PhD
 
-Hello there! I'm Ramón, a Biologist and PhD candidate in Biochemistry at the Fundación Instituto Leloir - CONICET. I specialize in turning complex data into actionable insights through machine learning and data modeling.
+Hi! I'm Ramón — a Biologist and PhD candidate in Biochemistry at Fundación Instituto Leloir - CONICET (thesis written, defense pending). I’m passionate about transforming complex datasets into clear, actionable insights using machine learning and data modeling.
 
-With a strong foundation in analytical thinking and scientific research, I’ve transitioned into the world of Data Science, applying ML and DL techniques to solve real-world problems. I’m currently working on freelance projects in customer segmentation and agricultural data analysis, building everything from machine learning pipelines to full-stack data apps with Streamlit and MySQL
+With a background in scientific research and analytical thinking, I’ve transitioned into Data Science, where I apply ML and DL techniques to solve real-world problems. I’m currently working on freelance projects involving customer segmentation and agricultural data, building end-to-end solutions from data pipelines to web applications.
 
-##  Skills
+---
+
+## 🛠️ Skills
 
 - **Programming:** Python (Pandas, Seaborn, Matplotlib, NumPy, Scikit-learn, TensorFlow, Pytest, Streamlit), R  
 - **Data Mining:** Data cleaning, EDA, data modelling, model evaluation  
@@ -16,6 +18,7 @@ With a strong foundation in analytical thinking and scientific research, I’ve 
 - **Languages:** Spanish (Native), English (Professional), German (A1)  
 - **Mindset & Communication:** Problem-solving mindset, continuous learner, effective communicator, collaborative approach  
 
+---
 
 ## **Featured Public Projects:**
 
@@ -24,9 +27,10 @@ With a strong foundation in analytical thinking and scientific research, I’ve 
    Repository: https://github.com/ramonpm4/Proyectos/blob/main/Proyecto_de_Segmentacion_de_Clientes.ipynb
 
 2. **Risk Classification of Cardiovascular Disease Using Decision Tree, Random Forest, and XGBoost**  
-   **Description:** I developed a supervised classification model to predict with an accuracy of 89.7% the probability of a patient having a cardiovascular disease based on eleven patient-specific features. I then deployed the model using Streamlit so that users could access the trained model and learn about the likelihood of cardiovascular disease.
+   **Description:** I developed a supervised classification model to predict with an accuracy of 89.7% the probability of a patient having a cardiovascular disease based on eleven patient-specific features. I then deployed the model using Streamlit so that users could access the trained model and learn about the likelihood of cardiovascular disease.  
    Repository: https://github.com/ramonpm4/RandomForest_APP
 
+---
 
 ## 💼 Experience
 
@@ -54,7 +58,7 @@ With a strong foundation in analytical thinking and scientific research, I’ve 
   *Fundación Instituto Leloir* | September 2019 – March 2022  
   Analyzed trends in biochemical data using Excel and ProFit.
 
-
+---
 
 ## 🎓 Education
 
@@ -69,22 +73,18 @@ With a strong foundation in analytical thinking and scientific research, I’ve 
 - **High School**  
   *Aberdare College (Bilingual Primary and Secondary)* | 2014
 
+---
 
+## 🚀 Open to Work
 
-## **Currently Looking For**
+I’m currently seeking a Data Science position where I can apply my skills in data analysis and predictive modeling to real-world challenges. I’m especially motivated to keep growing in machine learning and contribute to impactful, data-driven teams.
 
-I am looking for a Data Science position where I can apply my skills in data analysis and predictive modeling to tackle complex problems. My goal is to continue learning and growing in the field of machine learning, applying my current knowledge while acquiring new skills in this area.
+---
 
+## 🔍 What I Bring
 
-## **What I Offer:**
-- Solid skills in Python, data analysis, and machine learning.
-- Experience handling complex datasets and generating actionable insights.
-- Ability to work in multidisciplinary teams and communicate technical results clearly and precisely.
-
-
-## **Why Me?**
-I am a fast learner. My scientific background gave me the ability to quickly acquire knowledge and find rigurous solutions to complex problems. I am truly passionate about continuous learning, adapting quickly with a Design-Build-Evaluate cycle mindset.
-
-
-
-
+- Strong skills in Python, data analysis, and machine learning  
+- Experience working with complex datasets and extracting meaningful insights  
+- A scientific mindset: rigorous, curious, and fast-learning  
+- Clear communication and teamwork in multidisciplinary environments  
+- Passion for continuous learning and iterative problem-solving (Design–Build–Evaluate mindset)
