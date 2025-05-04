@@ -20,7 +20,7 @@ With a background in scientific research and analytical thinking, I’ve transit
 
 ---
 
-## **Featured Public Projects:**
+## **Check out some of my public projects!:**
 
 1. **Customer Segmentation with Machine Learning**  
    **Description:** In this project, I applied an unsupervised K-means model to group customers of a company into different segments based on their purchasing patterns.  
