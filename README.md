@@ -28,6 +28,34 @@ With a strong foundation in analytical thinking and scientific research, I’ve 
    Repository: https://github.com/ramonpm4/RandomForest_APP
 
 
+## 💼 Experience
+
+- **Data Scientist (Freelance)**  
+  *Dos Amigos S.A.* | December 2024 – Present  
+  Developed and optimized an unsupervised machine learning model for customer segmentation to improve targeted marketing strategies.  
+  *(Data Mining, KMeans, Pandas, Matplotlib, Seaborn)*
+
+- **Data Scientist (Freelance)**  
+  *Los Plátanos Farming Company* | December 2024 – Present  
+  Designed and built a relational database in MySQL and developed a data analysis pipeline deployed as a web application.  
+  *(MySQL, Python, Pandas, Streamlit, Seaborn, Pytest)*
+
+- **PhD Researcher**  
+  *Fundación Instituto Leloir* | March 2022 – May 2025  
+  Analyzed and correlated data from diverse experimental approaches to understand biochemical processes. Solved experimental and analytical issues to ensure data quality.  
+  *(Python, Pandas, Matplotlib, statsmodels)*  
+  First author on 2 publications; co-author on 3 peer-reviewed international biochemistry articles.
+
+- **Visiting Researcher**  
+  *Centro Nacional de Pesquisa em Energia e Materiais – Campinas, Brazil* | January 2024 – 2 weeks  
+  Strengthened international collaboration networks and collected key data for ongoing projects using Cryo-Electron Microscopy (Cryo-EM).
+
+- **Project Assistant**  
+  *Fundación Instituto Leloir* | September 2019 – March 2022  
+  Analyzed trends in biochemical data using Excel and ProFit.
+
+
+
 ## 🎓 Education
 
 - **PhD in Biochemistry**  
@@ -43,15 +71,16 @@ With a strong foundation in analytical thinking and scientific research, I’ve 
 
 
 
-
 ## **Currently Looking For**
 
 I am looking for a Data Science position where I can apply my skills in data analysis and predictive modeling to tackle complex problems. My goal is to continue learning and growing in the field of machine learning, applying my current knowledge while acquiring new skills in this area.
+
 
 ## **What I Offer:**
 - Solid skills in Python, data analysis, and machine learning.
 - Experience handling complex datasets and generating actionable insights.
 - Ability to work in multidisciplinary teams and communicate technical results clearly and precisely.
+
 
 ## **Why Me?**
 I am a fast learner. My scientific background gave me the ability to quickly acquire knowledge and find rigurous solutions to complex problems. I am truly passionate about continuous learning, adapting quickly with a Design-Build-Evaluate cycle mindset.
