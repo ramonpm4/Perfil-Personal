@@ -1,4 +1,4 @@
-# **Ramón Peralta Martinez - Data Science | PhD Candidate**
+# **Ramón Peralta Martinez - Data Scientist | PhD Candidate**
 
 Hello there! I'm Ramón, a Biologist and PhD candidate in Biochemistry at the Fundación Instituto Leloir - CONICET. I am currently seeking opportunities to apply my skills in Data Science within a company.
 
