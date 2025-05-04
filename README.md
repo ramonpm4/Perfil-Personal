@@ -1,13 +1,20 @@
 # **Ramón Peralta Martinez - Data Scientist | PhD Candidate**
 
-Hello there! I'm Ramón, a Biologist and PhD candidate in Biochemistry at the Fundación Instituto Leloir - CONICET. I am currently seeking opportunities to apply my skills in Data Science within a company.
+Hello there! I'm Ramón, a Biologist and PhD candidate in Biochemistry at the Fundación Instituto Leloir - CONICET. I specialize in turning complex data into actionable insights through machine learning and data modeling.
 
-## **About Me**
+With a strong foundation in analytical thinking and scientific research, I’ve transitioned into the world of Data Science, applying ML and DL techniques to solve real-world problems. I’m currently working on freelance projects in customer segmentation and agricultural data analysis, building everything from machine learning pipelines to full-stack data apps with Streamlit and MySQL
 
--  **Education**: Biology (Licenciatura, UBA) and Biochemical Chemistry (PhD - near completion - Thesis already writen).
--  **Data Science**: Experience in data analysis and data modeling using Python (Pandas, scikit-learn, matplotlib), with a strong interest in machine learning.
--  **Machine Learning**: I've worked with unsupervised (clustering) and supervised models. I am very interested in fine-tune my ML skills with a continuous learning mindset. Additionally, I am knowledgeable about the operation and application of Deep Learning models.
--  **Tools**: Python, Jupyter, Pandas, Scikit-Learn, TensorFlow, Matplotlib, Seaborn. Knowledge in SQL and Cloud Computing (Azure)
+##  Skills
+
+- **Programming:** Python (Pandas, Seaborn, Matplotlib, NumPy, Scikit-learn, TensorFlow, Pytest, Streamlit), R  
+- **Data Mining:** Data cleaning, EDA, data modelling, model evaluation  
+- **Machine Learning:** Supervised (Linear/Logistic Regression, Decision Trees, Ensembles), Unsupervised (Clustering – KMeans, Anomaly Detection)  
+- **Deep Learning:** Neural networks, hyperparameter tuning  
+- **Statistical Modeling:** General Linear Models, Generalized Linear Models  
+- **Databases & Cloud:** SQL, Azure Cloud Computing  
+- **Visualization:** Power BI, Tableau  
+- **Languages:** Spanish (Native), English (Professional), German (A1)  
+- **Mindset & Communication:** Problem-solving mindset, continuous learner, effective communicator, collaborative approach  
 
 
 ## **Featured Public Projects:**
@@ -19,6 +26,23 @@ Hello there! I'm Ramón, a Biologist and PhD candidate in Biochemistry at the Fu
 2. **Risk Classification of Cardiovascular Disease Using Decision Tree, Random Forest, and XGBoost**  
    **Description:** I developed a supervised classification model to predict with an accuracy of 89.7% the probability of a patient having a cardiovascular disease based on eleven patient-specific features. I then deployed the model using Streamlit so that users could access the trained model and learn about the likelihood of cardiovascular disease.
    Repository: https://github.com/ramonpm4/RandomForest_APP
+
+
+## 🎓 Education
+
+- **PhD in Biochemistry**  
+  *University of Buenos Aires* | 2022–2025  
+  Conducted under a doctoral fellowship from CONICET. Thesis written; defense pending.
+
+- **Licenciatura in Biological Sciences – Molecular Biology**  
+  *University of Buenos Aires* | 2015–2022  
+  GPA: 8.64
+
+- **High School**  
+  *Aberdare College (Bilingual Primary and Secondary)* | 2014
+
+
+
 
 ## **Currently Looking For**
 
