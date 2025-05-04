@@ -10,7 +10,7 @@ Hello there! I'm Ramón, a Biologist and PhD candidate in Biochemistry at the Fu
 -  **Tools**: Python, Jupyter, Pandas, Scikit-Learn, TensorFlow, Matplotlib, Seaborn. Knowledge in SQL and Cloud Computing (Azure)
 
 
-## **Featured Projects:**
+## **Featured Public Projects:**
 
 1. **Customer Segmentation with Machine Learning**  
    **Description:** In this project, I applied an unsupervised K-means model to group customers of a company into different segments based on their purchasing patterns.  
