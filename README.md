@@ -30,6 +30,10 @@ I transitioned into Data Science after several years of scientific research, dev
    **Description:** I developed a supervised classification model to predict with an accuracy of 89.7% the probability of a patient having a cardiovascular disease based on eleven patient-specific features. I then deployed the model using Streamlit so that users could access the trained model and learn about the likelihood of cardiovascular disease.  
    Repository: https://github.com/ramonpm4/RandomForest_APP
 
+3. **Lead Scoring with Interpretable Machine Learning: Comparing EBM and XGBoost with SHAP Explanations**
+**Description:** In this project, I built a lead scoring model using two complementary approaches: a black-box XGBoost model interpreted with SHAP, and a fully interpretable Explainable Boosting Machine (EBM). The goal was not only to predict the probability of conversion but also to extract actionable insights for marketing strategy based on feature-level analysis.
+Repository: https://github.com/ramonpm4/Proyectos/blob/main/Lead%20Scoring%20with%20Interpretable%20Machine%20Learning.ipynb
+
 ---
 
 ## 💼 Experience
