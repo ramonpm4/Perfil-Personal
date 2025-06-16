@@ -1,4 +1,4 @@
-# Ramón Peralta Martínez — Data Scientist | Biologist | PhD
+# Ramón Peralta Martínez — Data Scientist | PhD
 
 Hi! I'm Ramón — a Data Scientist focused on helping businesses make better decisions through data. With a background in molecular biology and a PhD in Biochemistry (thesis written, defense pending), I bring analytical depth and a hands-on approach to solving complex problems.
 
