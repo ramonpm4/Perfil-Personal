@@ -41,7 +41,7 @@ Repository: https://github.com/ramonpm4/Proyectos/blob/main/Lead%20Scoring%20wit
 ## 💼 Experience
 
 - **Data Scientist (Freelance)**  
-  *Dos Amigos S.A.* | December 2024 – Present  
+  *Dos Amigos S.A.* | December 2024 – March 2025  
   Developed and optimized an unsupervised machine learning model for customer segmentation to improve targeted marketing strategies.  
   *(Data Mining, KMeans, Pandas, Matplotlib, Seaborn)*
 
