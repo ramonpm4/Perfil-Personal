@@ -34,6 +34,8 @@ I transitioned into Data Science after several years of scientific research, dev
 **Description:** In this project, I built a lead scoring model using two complementary approaches: a black-box XGBoost model interpreted with SHAP, and a fully interpretable Explainable Boosting Machine (EBM). The goal was not only to predict the probability of conversion but also to extract actionable insights for marketing strategy based on feature-level analysis.
 Repository: https://github.com/ramonpm4/Proyectos/blob/main/Lead%20Scoring%20with%20Interpretable%20Machine%20Learning.ipynb
 
+4. **Churn Rate Dashboard**
+**Description:** Analyzed churn behavior in relation to pricing strategy. Found that high monthly charges increased churn for new users, while long-term users showed higher retention. Recommended onboarding clients at lower prices and gradually increasing rates, along with incentives for yearly contracts to improve ROI. Repository: https://public.tableau.com/app/profile/ramon.peralta.martinez/viz/Churn_17506222736490/Dashboard1
 ---
 
 ## 💼 Experience
