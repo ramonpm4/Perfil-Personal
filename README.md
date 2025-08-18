@@ -36,6 +36,10 @@ Repository: https://github.com/ramonpm4/Proyectos/blob/main/Lead%20Scoring%20wit
 
 4. **Churn Rate Dashboard**
 **Description:** Analyzed churn behavior in relation to pricing strategy. Found that high monthly charges increased churn for new users, while long-term users showed higher retention. Recommended onboarding clients at lower prices and gradually increasing rates, along with incentives for yearly contracts to improve ROI. Repository: https://public.tableau.com/app/profile/ramon.peralta.martinez/viz/Churn_17506222736490/Dashboard1
+
+5. **Time Series Forecasting with RNN, LSTM, and Holt-Winters**
+**Description:** Analyzed a univariate time series with trend and yearly seasonality. Built a Holt-Winters baseline and recurrent neural models (Simple RNN and LSTM) for one-step and multi-step (recursive) forecasting. Pipeline included log and log-diff transforms, scaling, sliding windows, and walk-forward backtesting. Findings: LSTM delivered the best one-step accuracy; Holt-Winters outperformed for longer multi-step horizons; the log+diff transform improved stationarity and training stability.
+Repository:https://github.com/ramonpm4/Proyectos/blob/main/Forecasting%20de%20series%20temporales%20con%20RNN%2C%20LSTM%20y%20Holt-Winters.ipynb
 ---
 
 ## 💼 Experience
