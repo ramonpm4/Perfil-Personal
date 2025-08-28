@@ -40,6 +40,11 @@ Repository: https://github.com/ramonpm4/Proyectos/blob/main/Lead%20Scoring%20wit
 5. **Time Series Forecasting with RNN, LSTM, and Holt-Winters**
 **Description:** Analyzed a univariate time series with trend and yearly seasonality. Built a Holt-Winters baseline and recurrent neural models (Simple RNN and LSTM) for one-step and multi-step (recursive) forecasting. Pipeline included log and log-diff transforms, scaling, sliding windows, and walk-forward backtesting. Findings: LSTM delivered the best one-step accuracy; Holt-Winters outperformed for longer multi-step horizons; the log+diff transform improved stationarity and training stability.
 Repository:https://github.com/ramonpm4/Proyectos/blob/main/Forecasting%20de%20series%20temporales%20con%20RNN%2C%20LSTM%20y%20Holt-Winters.ipynb
+
+6. **A/B Test — Auto-response with Logistic GLM**
+**Description:** Evaluated whether a new auto-response model increases the augmentation_rate (% of agent messages sent via suggestions) using 46,195 conversations. To reduce allocation bias, the analysis was restricted to November when both variants ran concurrently (43% treatment / 57% control). Built a binomial GLM (logit) at the conversation level (augmented vs. total messages), controlling for conversation length and time of day, with cluster-robust (HC3) standard errors to address intra-conversation correlation. Findings: Treatment coefficient ln(OR) = −0.0173 (OR ≈ 0.983) with a 95% CI overlapping 0, indicating no statistically significant lift in augmentation.
+Repository:https://github.com/ramonpm4/Proyectos/blob/main/A%3AB%20Test%20-%20Product.ipynb
+
 ---
 
 ## 💼 Experience
