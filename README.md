@@ -1,22 +1,25 @@
-# Ramón Peralta Martínez — Data Scientist | PhD
+# Ramón Peralta Martínez — Python Backend & Data
 
-Hi! I'm Ramón — a Data Scientist focused on helping businesses make better decisions through data. With a background in molecular biology and a PhD in Biochemistry (thesis written, defense pending), I bring analytical depth and a hands-on approach to solving complex problems.
+With 5+ years in data-driven projects and research, I’m proficient in building Python backends with a solid foundation in SQL, testing, and ETL. I’m migrating an agronomy platform I built from Streamlit to a FastAPI-based service while strengthening DevOps (Docker, CI/CD) and cloud skills. PhD in Biochemistry (thesis written; defense pending). Eager to keep growing as a Python developer.
 
-I transitioned into Data Science after several years of scientific research, developing a strong analytical mindset and attention to detail. I now work on freelance projects applying machine learning and deep learning to business challenges — from customer segmentation to agricultural performance analysis — building end-to-end solutions from clean data pipelines to web-based applications.
+---
+
+## 🔭 What I’m working on
+- Migrating a complete agronomy analytics platform **Streamlit + SQL→ FastAPI + SQL**
+- Adding **Docker** and **GitHub Actions (CI/CD)** to personal projects
+- Learning cloud fundamentals (**AWS/Azure – basics**)
+- Improving testing practices with **pytest** and coverage
 
 ---
 
 ## 🛠️ Skills
+- **Programming:** Python (**FastAPI**, Pydantic, **SQLAlchemy**, **pytest**, Pandas, NumPy, scikit-learn, TensorFlow basics); JS/TS & React (basics)  
+- **Databases & Data:** **SQL** (MySQL/PostgreSQL), schema design, optimization; ETL & data validation  
+- **DevOps & Cloud:** **Docker**, Git/GitHub, **GitHub Actions (CI/CD)**; Linux/macOS; AWS/Azure (basics)  
+- **Machine Learning:** Supervised/Unsupervised (regression, trees/ensembles, **K-Means**); model evaluation  
+- **Visualization:** Streamlit, Matplotlib/Seaborn, Power BI, Tableau  
+- **Languages:** Spanish (Native), English (Professional), German (A1)
 
-- **Programming:** Python (Pandas, Seaborn, Matplotlib, NumPy, Scikit-learn, TensorFlow, Pytest, Streamlit), R  
-- **Data Mining:** Data cleaning, EDA, data modelling, model evaluation  
-- **Machine Learning:** Supervised (Linear/Logistic Regression, Decision Trees, Ensembles), Unsupervised (Clustering – KMeans, Anomaly Detection)  
-- **Deep Learning:** Neural networks, hyperparameter tuning  
-- **Statistical Modeling:** General Linear Models, Generalized Linear Models  
-- **Databases & Cloud:** SQL, Azure Cloud Computing  
-- **Visualization:** Power BI, Tableau  
-- **Languages:** Spanish (Native), English (Professional), German (A1)  
-- **Mindset & Communication:** Problem-solving mindset, continuous learner, effective communicator, collaborative approach  
 
 ---
 
@@ -49,57 +52,51 @@ Repository:https://github.com/ramonpm4/Proyectos/blob/main/A%3AB%20Test%20-%20Pr
 
 ## 💼 Experience
 
-- **Data Scientist (Freelance)**  
-  *Dos Amigos S.A.* | December 2024 – March 2025  
-  Developed and optimized an unsupervised machine learning model for customer segmentation to improve targeted marketing strategies.  
-  *(Data Mining, KMeans, Pandas, Matplotlib, Seaborn)*
+- **Python Backend & Data (Freelance)**  
+  *Los Plátanos Farming Company* | Jan 2025 – Present  
+  Designed a **MySQL** schema and analytics views; built a Streamlit app and I’m migrating the backend to **FastAPI + SQLAlchemy** with **Pydantic** validation and **pytest** tests. Preparing **Docker** containers and basic **CI/CD** on GitHub Actions.  
+  *(FastAPI, SQLAlchemy, Pydantic, MySQL, Streamlit, pytest, Docker, GitHub Actions)*
 
 - **Data Scientist (Freelance)**  
-  *Los Plátanos Farming Company* | December 2024 – Present  
-  Designed and built a relational database in MySQL and developed a data analysis pipeline deployed as a web application.  
-  *(MySQL, Python, Pandas, Streamlit, Seaborn, Pytest)*
+  *Dos Amigos S.A.* | Dec 2024 – Mar 2025  
+  Delivered an **unsupervised segmentation (K-Means)** pipeline with clear metrics and dashboards for targeted marketing.  
+  *(Pandas, scikit-learn, Matplotlib/Seaborn)*
 
 - **PhD Researcher**  
-  *Fundación Instituto Leloir* | March 2022 – May 2025  
-  Analyzed and correlated data from diverse experimental approaches to understand biochemical processes. Solved experimental and analytical issues to ensure data quality.  
-  *(Python, Pandas, Matplotlib, statsmodels)*  
-  First author on 2 publications; co-author on 3 peer-reviewed international biochemistry articles.
+  *Fundación Instituto Leloir (CONICET)* | Mar 2022 – May 2025  
+  Built reproducible analysis in Python for complex datasets; coordinated experiments and collaborated with cross-functional teams; co-authored peer-reviewed publications (incl. Biophysical Journal).  
+  *(Python, Pandas, Matplotlib, statsmodels)*
 
 - **Visiting Researcher**  
-  *Centro Nacional de Pesquisa em Energia e Materiais – Campinas, Brazil* | January 2024 – 2 weeks  
-  Strengthened international collaboration networks and collected key data for ongoing projects using Cryo-Electron Microscopy (Cryo-EM).
+  *CNPEM – Campinas, Brazil* | Jan 2024 (2 weeks)  
+  Collected Cryo-EM data and strengthened collaboration.
 
 - **Project Assistant**  
-  *Fundación Instituto Leloir* | September 2019 – March 2022  
-  Analyzed trends in biochemical data using Excel and ProFit.
+  *Fundación Instituto Leloir* | Sep 2019 – Mar 2022  
+  Quantitative analysis and reporting (Excel/ProFit).
 
 ---
 
 ## 🎓 Education
 
-- **PhD in Biochemistry**  
-  *University of Buenos Aires* | 2022–2025  
-  Conducted under a doctoral fellowship from CONICET. Thesis written; defense pending.
+- **PhD in Biochemistry** — University of Buenos Aires | 2022–2025  
+  Thesis written; defense pending (CONICET fellowship).
 
-- **Licenciatura in Biological Sciences – Molecular Biology**  
-  *University of Buenos Aires* | 2015–2022  
+- **Licenciatura in Biological Sciences (Molecular Biology)** — UBA | 2015–2022  
   GPA: 8.64
-
-- **High School**  
-  *Aberdare College (Bilingual Primary and Secondary)* | 2014
 
 ---
 
 ## 🚀 Open to Work
 
-I’m currently seeking a Data Science position where I can apply my skills in data analysis and predictive modeling to real-world challenges. I’m especially motivated to keep growing in machine learning and contribute to impactful, data-driven teams. I’m also open to roles as a Machine Learning Engineer or Python Developer.
+Seeking a Python Backend Developer role (FastAPI, SQL, testing) with room to grow. Also open to Data/ML roles where I can contribute to ETL and model delivery.
+
 
 ---
 
 ## 🔍 What I Bring
 
-- Strong skills in Python, data analysis, and machine learning  
-- Experience working with complex datasets and extracting meaningful insights  
-- A scientific mindset: rigorous, curious, and fast-learning  
-- Clear communication and teamwork in multidisciplinary environments  
-- Passion for continuous learning and iterative problem-solving (Design–Build–Evaluate mindset)
+- Proficient in **Python backend** (FastAPI, SQLAlchemy, Pydantic) and **SQL** design/optimization  
+- **Testing** with pytest; version control; **Docker** basics  
+- Solid **data/ETL** background (Pandas) and clear documentation  
+- Collaborative communicator; iterative, problem-solving mindset
