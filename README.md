@@ -87,14 +87,5 @@ Repository:https://github.com/ramonpm4/Proyectos/blob/main/A%3AB%20Test%20-%20Pr
 
 ## 🚀 Open to Work
 
-Seeking a Python Backend Developer role (FastAPI, SQL, testing) with room to grow. Also open to Data/ML roles where I can contribute to ETL and model delivery.
+Seeking a Python Backend Developer role (Django/FastAPI, SQL, testing) with room to grow. Also open to Data Engineering roles focused on ETL and delivering reliable data products.
 
-
----
-
-## 🔍 What I Bring
-
-- Proficient in **Python backend** (FastAPI, SQLAlchemy, Pydantic) and **SQL** design/optimization  
-- **Testing** with pytest; version control; **Docker** basics  
-- Solid **data/ETL** background (Pandas) and clear documentation  
-- Collaborative communicator; iterative, problem-solving mindset
