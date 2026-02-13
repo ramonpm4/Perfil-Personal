@@ -1,6 +1,6 @@
 # Ramón Peralta Martínez — Python Backend & Data
 
-With 5+ years in data-driven projects and research, I’m proficient in building Python backends with a solid foundation in SQL, testing, and ETL. I’m migrating an agronomy platform I built from Streamlit to a FastAPI-based service while strengthening DevOps (Docker, CI/CD) and cloud skills. PhD in Biochemistry (thesis written; defense pending). Eager to keep growing as a Python developer.
+With 5+ years in data-driven projects and research, I’m proficient in building Python backends with a solid foundation in SQL, testing, and ETL. I’m migrating an agronomy platform I built from Streamlit to Django while strengthening DevOps (Docker, CI/CD) and cloud skills. PhD in Biochemistry (thesis written; defense pending). Eager to keep growing as a Python developer in production-focused teams.
 
 ---
 
