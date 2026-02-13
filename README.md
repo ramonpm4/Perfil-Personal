@@ -6,8 +6,6 @@ With 5+ years in data-driven projects and research, I’m proficient in building
 
 ## 🔭 What I’m working on
 - Migrating a complete agronomy analytics platform **Django, PostgreSQL**
-- Adding **Docker** and **GitHub Actions (CI/CD)** to personal projects
-- Learning cloud fundamentals (**AWS/Azure – basics**)
 - Improving testing practices with **pytest** and coverage
 
 ---
@@ -54,8 +52,8 @@ Repository:https://github.com/ramonpm4/Proyectos/blob/main/A%3AB%20Test%20-%20Pr
 
 - **Python Backend & Data (Freelance)**  
   *Los Plátanos Farming Company* | Jan 2025 – Present  
-  Designed a **MySQL** schema and analytics views; built a Streamlit app and I’m migrating the backend to **FastAPI + SQLAlchemy** with **Pydantic** validation and **pytest** tests. Preparing **Docker** containers and basic **CI/CD** on GitHub Actions.  
-  *(FastAPI, SQLAlchemy, Pydantic, MySQL, Streamlit, pytest, Docker, GitHub Actions)*
+  Designed the MySQL schema and analytics views to standardize KPIs and reporting. Built a Streamlit app and I’m currently migrating the backend to Django, adding server-side validation, pytest tests, and a cleaner multi-user architecture. Containerizing with Docker and setting up basic CI with GitHub Actions.
+*(Django, MySQL, Streamlit, pytest, Docker, GitHub Actions)*
 
 - **Data Scientist (Freelance)**  
   *Dos Amigos S.A.* | Dec 2024 – Mar 2025  
