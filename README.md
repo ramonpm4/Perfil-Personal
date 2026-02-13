@@ -5,7 +5,7 @@ With 5+ years in data-driven projects and research, I’m proficient in building
 ---
 
 ## 🔭 What I’m working on
-- Migrating a complete agronomy analytics platform **Streamlit + SQL→ FastAPI + SQL**
+- Migrating a complete agronomy analytics platform **Django, PostgreSQL**
 - Adding **Docker** and **GitHub Actions (CI/CD)** to personal projects
 - Learning cloud fundamentals (**AWS/Azure – basics**)
 - Improving testing practices with **pytest** and coverage
@@ -13,7 +13,7 @@ With 5+ years in data-driven projects and research, I’m proficient in building
 ---
 
 ## 🛠️ Skills
-- **Programming:** Python (**FastAPI**, Pydantic, **SQLAlchemy**, **pytest**, Pandas, NumPy, scikit-learn, TensorFlow basics); JS/TS & React (basics)  
+- **Programming:** Python (**Django**, **FastAPI**, **pytest**, Pandas, NumPy, scikit-learn, TensorFlow basics); HTML and CSS (basics) 
 - **Databases & Data:** **SQL** (MySQL/PostgreSQL), schema design, optimization; ETL & data validation  
 - **DevOps & Cloud:** **Docker**, Git/GitHub, **GitHub Actions (CI/CD)**; Linux/macOS; AWS/Azure (basics)  
 - **Machine Learning:** Supervised/Unsupervised (regression, trees/ensembles, **K-Means**); model evaluation  
